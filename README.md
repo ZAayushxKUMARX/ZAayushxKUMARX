@@ -34,26 +34,4 @@
 </br>
 
 
----
-## 💻 Latest Activities
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/xditya/ContactAdder/pull/1) in [xditya/ContactAdder](https://github.com/xditya/ContactAdder)
-2. 🎉 Merged PR [#1](https://github.com/xditya/HTMLWebShotBot/pull/1) in [xditya/HTMLWebShotBot](https://github.com/xditya/HTMLWebShotBot)
-3. 🎉 Merged PR [#7](https://github.com/xditya/SideLoad/pull/7) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
-4. 🗣 Commented on [#127](https://github.com/TeamUltroid/Ultroid/issues/127) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🎉 Merged PR [#6](https://github.com/xditya/SideLoad/pull/6) in [xditya/SideLoad](https://github.com/xditya/SideLoad)
-<!--END_SECTION:activity-->
-
----
-
-## 🎵 Now playing
-
-[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
-
----
-
-## 💰 Support Me
-
-<a href="https://ko-fi.com/xditya" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="xditya" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" /></a>
-<a href="https://www.paypal.me/xditya7" class="padded"><img height="30" style="border:0px;height:30px;" align="centre" alt="xditya" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg" /></a>
+-
