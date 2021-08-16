@@ -1,7 +1,5 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Aditya](https://xditya.me) | [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)](https://github.com/xditya)
    
-- 💫 I’m currently working on [Ultroid](https://github.com/TeamUltroid)
-- 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
 ---
 
@@ -35,17 +33,6 @@
 <a href="https://twitter.com/its_xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
 </br>
 
----
-## 🎥 Latest YouTube Videos
-
-<!-- YouTube:START -->
-- [Deploy Ultroid to Qovery | Telegram UserBot](https://www.youtube.com/watch?v=ryMptDTwVEg)
-- [Deploy Ultroid on a VPS/Local Machine | Telegram UserBot | TheUltroid](https://www.youtube.com/watch?v=QfdZiQEWmSo)
-- [Deploy Ultroid to Heroku | Telegram UserBot | Ultroid](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
-- [Deploy your own GitHub Bot | Telegram | GitGram](https://www.youtube.com/watch?v=mp3oTG8DC58)
-- [Deploy Your Own LivegramBot || NoPMsBot || Telegram Bot Tutorial](https://www.youtube.com/watch?v=scFG1Vg_pEo)
-<!-- YouTube:END -->
-> ➕ [View More...](https://youtube.com/xditya)
 
 ---
 ## 💻 Latest Activities
