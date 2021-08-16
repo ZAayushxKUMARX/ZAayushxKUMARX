@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Aditya](https://xditya.me) | [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)](https://github.com/xditya)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Aayush](https://t.me/AayushxKUMARZ) | [![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views)](https://github.com/ZAayushxKUMARX)
    
 - ⚡ Always ready to help!
 ---
